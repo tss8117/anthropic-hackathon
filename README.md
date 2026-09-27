@@ -64,7 +64,7 @@ The patient or a family member uploads a photo or PDF of their discharge summary
 ```bash
 # 1. Clone the repo
 git clone https://github.com/tss8117/anthropic-hackathon.git
-cd Anthropic_Hackathon
+cd anthropic-hackathon
 
 # 2. Install dependencies
 npm install
